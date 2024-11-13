@@ -37,8 +37,8 @@ export default function () {
         </a>
         's <b>only</b> purpose is to send a reminder to warpcast every hour to
         straighten one's back, this is the code for it:
-        <img src="/images/4.png" alt="@healthbot code" />
       </p>
+      <img src="/images/4.png" alt="@healthbot code" />
       <p>
         literally just publishes a cast once an hour. let's see how it will go.
         if everything's to @dwr's expectations, the cast should be published
@@ -63,6 +63,7 @@ export default function () {
         breaking changes to hubs, farcaster, whatever
       </p>
       <p>cheers</p>
+      <img src="/images/5.jpg" alt="they took everything from us" />
     </article>
   )
 }
