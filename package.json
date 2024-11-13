@@ -11,7 +11,6 @@
     "preview": "yarn build && yarn vite preview"
   },
   "dependencies": {
-    "jotai": "^2.10.2",
     "preact": "^10.24.3"
   },
   "devDependencies": {
